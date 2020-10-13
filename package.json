@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-use-meta-bug",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/composition-api": "^0.13.0",
+    "core-js": "2.6.11",
+    "nuxt": "2.12.2"
+  },
+  "devDependencies": {}
+}
